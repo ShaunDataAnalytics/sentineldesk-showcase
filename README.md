@@ -1,13 +1,13 @@
 # SentinelDesk — Incident Triage & Automation Console
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://gdg-sentinal.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://sentineldesk-showcase.vercel.app/)
 [![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
 > **Interactive Enterprise Console for Automated Multilingual Incident Triage, Escalation Gates, and Precedent-Grounded AI Reply Drafting.**
 
-🔗 **Live Production App**: [gdg-sentinal.vercel.app](https://gdg-sentinal.vercel.app/)  
+🔗 **Live Production App**: [sentineldesk-showcase.vercel.app](https://sentineldesk-showcase.vercel.app/)  
 🎥 **Demo Walkthrough**: [youtu.be/UBkSEnIPQRM](https://youtu.be/UBkSEnIPQRM)
 
 ---
